@@ -4,7 +4,7 @@ namespace HelloWorld
     {
         public main()
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World  - Welcome to C Sharp with friends");
         }
     }
 }
