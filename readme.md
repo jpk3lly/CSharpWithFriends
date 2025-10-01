@@ -1,4 +1,6 @@
-<h1 align="center"> Hacktoberfest 2022 - C# With Friends </h1>
+<h1 align="center">C# With Friends </h1>
+
+### Accepting submissions for Hacktoberfest again in 2025
 
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
